@@ -1,3 +1,4 @@
+
 # 🚗 Vehicle-Management
 
 This project simulates a basic vehicle management system using object-oriented programming concepts in Java. It allows representation and display of different types of vehicles such as Cars, Bikes, and Trucks.
@@ -6,6 +7,7 @@ This project simulates a basic vehicle management system using object-oriented p
 
 ## 📁 Project Structure
 
+```
 Vehicle-Management/
 ├── README.md
 ├── Bike.java
@@ -13,10 +15,7 @@ Vehicle-Management/
 ├── Truck.java
 ├── Vehicle.java
 └── VehicleManagementSystem.java
-
-yaml
-Copy
-Edit
+```
 
 ---
 
@@ -45,20 +44,34 @@ Edit
 2. Compile all `.java` files:
    ```bash
    javac *.java
-Run the main class:
+   ```
+3. Run the main class:
+   ```bash
+   java VehicleManagementSystem
+   ```
 
-bash
-Copy
-Edit
-java VehicleManagementSystem
-💡 Concepts Used
-Inheritance
+---
 
-Polymorphism
+## 💡 Concepts Used
 
-Abstraction
+- Inheritance  
+- Polymorphism  
+- Abstraction  
+- Method Overriding  
+- Java Class Hierarchies  
 
-Method Overriding
+---
 
-Java Class Hierarchies
+## 📌 Output Example
 
+```
+Car: Toyota Camry (2020), Seats: 5
+Bike: Hero Splendor (2018), Gear: Yes
+Truck: Tata Ace (2019), Load Capacity: 1.5 tons
+```
+
+---
+
+## 📬 Contact
+
+For any queries or suggestions, feel free to reach out to any of the team members.
