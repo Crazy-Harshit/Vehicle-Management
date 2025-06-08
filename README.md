@@ -77,13 +77,13 @@ Vehicle-Management/
 
 ---
 
-## 📌 Output Example
+## 📌 GUI Example
 
-```
-Car: Toyota Camry (2020), Seats: 5
-Bike: Hero Splendor (2018), Gear: Yes
-Truck: Tata Ace (2019), Load Capacity: 1.5 tons
-```
+Below is a screenshot of the Vehicle Management System GUI:
+
+![Vehicle Management System GUI](assets/gui-screenshot.png)
+
+*Click on the buttons to view details for Car, Bike, or Truck in the text area.*
 
 ---
 
