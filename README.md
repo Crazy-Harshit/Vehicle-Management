@@ -11,3 +11,13 @@ Team members:-
 3.Aman Rai.
 <br>
 4.Anurag Upadhyay.
+
+#Project-Structure#
+Vehicle-Management/
+├── README.md
+├── Bike.java
+├── Car.java
+├── Truck.java
+├── Vehicle.java
+└── VehicleManagementSystem.java
+
